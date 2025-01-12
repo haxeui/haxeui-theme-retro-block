@@ -8,6 +8,10 @@
     padding: 5px 8px;
 }
 
+.button .label {
+    margin-left: 1px;
+}
+
 .button:hover {
     background-image: "haxeui-retro-block/styles/images/button.png";
     background-image-clip: 18px 0px 36px 18px;
