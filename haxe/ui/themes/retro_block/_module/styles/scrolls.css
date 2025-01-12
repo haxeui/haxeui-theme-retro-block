@@ -1,7 +1,7 @@
 .scrollview {
     background-image: "haxeui-retro-block/styles/images/inset_thin_transparent.png";
     background-image-clip: 0px 0px 18px 18px;
-    background-image-slice: 5px 5px 13px 13px;
+    background-image-slice: 5px 5px 11px 11px;
     
     background-color: white;
     border: none;
@@ -28,8 +28,8 @@
 
 
 .vertical-scroll  .deinc {
-    height: 13px;
-    width: 13px;
+    height: 11px;
+    width: 11px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/up_arrow.png";
     hidden: false;
@@ -47,8 +47,8 @@
 
 
 .vertical-scroll  .inc {
-    height: 13px;
-    width: 13px;
+    height: 11px;
+    width: 11px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/down_arrow.png";
     hidden: false;
@@ -66,12 +66,14 @@
 
 
 .vertical-scroll {
-    width: 13px;
+    width: 11px;
+    border: none;
+    padding: 0;
 }
 
 .vertical-scroll .thumb {
-    width: 13px;
-    height: 13px;
+    width: 11px;
+    height: 11px;
 }
 
 
@@ -86,8 +88,8 @@
 
 
 .horizontal-scroll  .deinc {
-    height: 13px;
-    width: 13px;
+    height: 11px;
+    width: 11px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/left_arrow.png";
     hidden: false;
@@ -105,8 +107,8 @@
 
 
 .horizontal-scroll  .inc {
-    height: 13px;
-    width: 13px;
+    height: 11px;
+    width: 11px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/right_arrow.png";
     hidden: false;
@@ -124,10 +126,12 @@
 
 
 .horizontal-scroll {
-    height: 13px;
+    height: 11px;
+    border: none;
+    padding: 0;
 }
 
 .horizontal-scroll .thumb {
-    width: 13px;
-    height: 13px;
+    width: 11px;
+    height: 11px;
 }
