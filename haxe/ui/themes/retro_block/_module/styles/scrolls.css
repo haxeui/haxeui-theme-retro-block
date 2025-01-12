@@ -32,6 +32,7 @@
     width: 13px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/up_arrow.png";
+    hidden: false;
 }
 
 .vertical-scroll  .deinc:hover {
@@ -50,6 +51,7 @@
     width: 13px;
     background-color: #e9e9e9;
     icon: "haxeui-retro-block/styles/images/down_arrow.png";
+    hidden: false;
 }
 
 .vertical-scroll  .inc:hover {
@@ -87,17 +89,18 @@
     height: 13px;
     width: 13px;
     background-color: #e9e9e9;
-    icon: "haxeui-flixel/styles/default/images/left_arrow.png";
+    icon: "haxeui-retro-block/styles/images/left_arrow.png";
+    hidden: false;
 }
 
 .horizontal-scroll  .deinc:hover {
     background-color: #d0d0d0;
-    icon: "haxeui-flixel/styles/default/images/left_arrow.png";
+    icon: "haxeui-retro-block/styles/images/left_arrow.png";
 }
 
 .horizontal-scroll  .deinc:down {
     background-color: #c5c5c5;
-    icon: "haxeui-flixel/styles/default/images/left_arrow.png";
+    icon: "haxeui-retro-block/styles/images/left_arrow.png";
 }
 
 
@@ -105,17 +108,18 @@
     height: 13px;
     width: 13px;
     background-color: #e9e9e9;
-    icon: "haxeui-flixel/styles/default/images/right_arrow.png";
+    icon: "haxeui-retro-block/styles/images/right_arrow.png";
+    hidden: false;
 }
 
 .horizontal-scroll  .inc:hover {
     background-color: #d0d0d0;
-    icon: "haxeui-flixel/styles/default/images/right_arrow.png";
+    icon: "haxeui-retro-block/styles/images/right_arrow.png";
 }
 
 .horizontal-scroll  .inc:down {
     background-color: #c5c5c5;
-    icon: "haxeui-flixel/styles/default/images/right_arrow.png";
+    icon: "haxeui-retro-block/styles/images/right_arrow.png";
 }
 
 
