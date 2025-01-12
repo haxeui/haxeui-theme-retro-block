@@ -15,6 +15,7 @@
 .dialog-title {
     background-color: #3399FF;
     border: none;
+    padding: 3px;
 }
 
 .dialog-title-label {
