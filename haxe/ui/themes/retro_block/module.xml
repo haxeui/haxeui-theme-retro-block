@@ -6,8 +6,7 @@
     
     <themes>
         <retro-block parent="default">
-            <!-- TODO: dont know why i need to explicitly set the priorty -->
-            <style resource="haxeui-retro-block/styles/main.css" priority="-3" />
+            <style resource="haxeui-retro-block/styles/main.css" />
             <style resource="haxeui-retro-block/styles/buttons.css" />
             <style resource="haxeui-retro-block/styles/checkboxes.css" />
             <style resource="haxeui-retro-block/styles/textfields.css" />
