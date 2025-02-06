@@ -21,6 +21,7 @@
             <style resource="haxeui-retro-block/styles/listviews.css" />
             <style resource="haxeui-retro-block/styles/tableviews.css" />
             <style resource="haxeui-retro-block/styles/frames.css" />
+            <style resource="haxeui-retro-block/styles/switches.css" />
         </retro-block>
     </themes>
 </module>
